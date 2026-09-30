@@ -29,7 +29,8 @@
             <look name="r6" gray="1.0" roughness="0.2" texture="textures/r6.jpg"/>
 
             <!--look name="mountains" gray="1.0" roughness="0.2" texture="textures/mountains.png"/-->
-            <look name="big_mountains" gray="1.0" roughness="1.0" texture="textures/big_mountains.png"/>
+            <!-- big_mountains.png is not in the repo; using the 4K mountains.png as a stand-in -->
+            <look name="big_mountains" gray="1.0" roughness="1.0" texture="textures/mountains.png"/>
             <look name="buoy" gray="1.0" roughness="0.2" texture="textures/Buoy1.png"/>
             <look name="windmill" gray="1.0" roughness="0.2" texture="textures/windmill.png"/>
             <look name="res_boat" gray="1.0" roughness="0.2" texture="textures/res_boat_2.png"/>

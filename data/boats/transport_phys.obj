@@ -1,6 +1,5 @@
 # Blender 4.3.2
 # www.blender.org
-mtllib transport_phys.mtl
 o transport_hull
 v 66.766106 12.559109 -11.471784
 v -36.565033 6.663391 -11.471784

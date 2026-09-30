@@ -1,6 +1,5 @@
 # Blender 4.3.2
 # www.blender.org
-mtllib disher_boat_cube_phys.mtl
 o phys_cube
 v -4.232743 0.000000 0.844769
 v -4.232743 2.000000 0.844769

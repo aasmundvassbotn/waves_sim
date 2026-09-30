@@ -1,6 +1,5 @@
 # Blender 4.3.2
 # www.blender.org
-mtllib rock3_phys.mtl
 o rock3_phys
 v -5.000000 -3.000000 5.000000
 v -5.000000 3.000000 5.000000
